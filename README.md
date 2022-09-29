@@ -1,5 +1,5 @@
-Hi 👋, I'm Owais
-I like to design beautifull websites and mobile app.
+<h1>Hi 👋, I'm Owais</h1>
+<h2>I like to design beautifull websites and mobile app.</h2>
 
 
 Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
