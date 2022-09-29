@@ -14,11 +14,11 @@
 <h2>Contact Me</h2>
 <em>Hit me up on any platform if you want to have a talk!</em>
  
- <a href="https://www.instagram.com/raza_owais04/">Instagram</a>
+ <a target="_blank" href="https://www.instagram.com/raza_owais04/">Instagram</a>
 
-<a href="https://www.linkedin.com/in/owais-raza-91562b240/">Linkedin</a>       
+<a target="_blank" href="https://www.linkedin.com/in/owais-raza-91562b240/">Linkedin</a>       
 
-<a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a>
+<a target="_blank" href="https://mail.google.com/mail/u/0/#inbox">Gmail</a>
 <hr>
 <h2>About Me</h2>
 <ul>
