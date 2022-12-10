@@ -18,7 +18,7 @@
 
 <a href="https://www.linkedin.com/in/owais-raza-91562b240/" target="_blank">Linkedin</a>       
 
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">Gmail</a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">Twitter</a>
 <hr>
 <h2>About Me</h2>
 <ul>
