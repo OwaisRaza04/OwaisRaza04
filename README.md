@@ -1,43 +1,40 @@
-<html>
-<head>
-<!-- <title>Raza Owais</title>
-<script src="https://kit.fontawesome.com/5ddfbbb54d.js" crossorigin="anonymous"></script> -->
- </head>
-   <body>
-<h1>Hi 👋, I'm Owais</h1>
-
-<h3>I like to design beautifull websites and mobile app.</h3>
+<h1 align="center">Hi 👋, I'm Owais</h1>
+<h3 align="center">"Crafting code that evolves, shaping the web's future one line at a time."</h3>
 
 
-<h4>Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.</h4>
-<hr>
-<h2>Contact Me</h2>
-<em>Hit me up on any platform if you want to have a talk!</em>
- 
- <a href="https://www.instagram.com/raza_owais04/" target="_blank">Instagram</a>
 
-<a href="https://www.linkedin.com/in/owais-raza-91562b240/" target="_blank">Linkedin</a>       
+### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
 
-<a href="https://twitter.com/RazaOwais17?t=I00p48vOa84v35O2vjnE8w&s=08" target="_blank">Twitter</a>
-<hr>
-<h2>About Me</h2>
-<ul>
-   <li>🔭 I am into Web Development and App Devlopment</li>
-<li>🌱 I’m currently learning ML/DL</li>
-<li>⚡ Fun fact: I love to do projects in my domains</li>
-</ul>
-<hr>
-<h2>🛠 My Projects</h2>
-<em>Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project</em>
+---
+## Contact Me
 
-      
-      
-  <ul>
-     <li><a href="https://github.com/OwaisRaza04/Attendance_System_-Based-on_FaceRecognition-Identification-and-Verification ">Attendance_System_-Based-on_FaceRecognition-Identification-and-Verification</a>- This attendance system is based on face recognition library in python. This system can detect the faces of students and identify their faces. As this is the attendance system, so it will mark the attendance of identified faces and send email to the parents of absent student automatically. This system can automatically generate defaulter list(attendance less then 75%) of students and can also save all records in txt file as well as in excel sheet with graph representation of the data.</li>
-      <li><a href="https://github.com/OwaisRaza04/SnakeGame_using_Hand_gesture ">SnakeGame_using_Hand_gesture</a>- A simple snake game in python language and using hand tracking module.</li>
-      <li><a href="https://github.com/OwaisRaza04/ML_ParkingSlot_Detection_system">ML_ParkingSlot_Detection_system</a>- I develop the ML project which is parking slot detection system using python language.</li>
-      <li><a href="https://github.com/OwaisRaza04/Jarvis_VirtualAssistance">Jarvis_VirtualAssistance</a>- This is simple virtual assistance using python language without using advanced ML algorithms.</li>
-     
-   </ul>
-   </body>
-   </html>
+***Hit me up on any platform if you want to have a talk!***
+
+<a href="mailto:owaisraza7297@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
+<a href="https://www.linkedin.com/in/raza-owais-91562b240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://twitter.com/RazaOwais17" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
+
+---
+## About Me
+- 🔭 As a MERN stack enthusiast, I specialize in developing robust web applications, seamlessly integrating MongoDB, Express.js, React, and Node.js to create dynamic and efficient solutions.
+- 🚀 Thriving as a freelance web developer, I bring diverse expertise to projects, ensuring tailored solutions that meet client needs and elevate their online presence.
+- 👯 Having honed my skills through real-world experiences, I've not only contributed to various web projects but also interned with industry leaders, gaining valuable insights and enhancing my proficiency in web development.
+- 💪 I love contributing to open-source libraries.
+- ⚡ Passionate about the ever-evolving world of web technologies, I am dedicated to staying at the forefront of innovation, bringing fresh perspectives to every project and delivering high-quality results that exceed expectations.
+---
+
+## 🛠 My Projects
+
+*Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project*
+- **[ML_ParkingSlot_Detection_system](https://github.com/OwaisRaza04/ML_ParkingSlot_Detection_system)**: A Machine Learning based Parking Slot Detection System is an innovative solution that aims to automate the process of parking slot detection. By using computer vision and machine learning algorithms, this system can accurately detect available parking slots in real-time.
+
+- **[Attendance_System_-Based-on_FaceRecognition-Identification-and-Verification](https://github.com/OwaisRaza04/Attendance_System_-Based-on_FaceRecognition-Identification-and-Verification)** - An Attendance System Based on Face Recognition, Identification, and Verification is an advanced system that automates the process of taking attendance using computer vision technology. The system uses a combination of facial recognition, identification, and verification techniques to accurately and quickly identify individuals and mark their attendance.
+  
+- **[VidTube---A-Youtube-Clone](https://github.com/OwaisRaza04/VidTube---A-Youtube-Clone)** - This is a frontend project for a YouTube clone called VidTube. The project is built using JS, CSS and HTML, and it aims to replicate some of the core features and functionalities of YouTube.
+ [[demo app](https://owaisraza04.github.io/VidTube---A-Youtube-Clone/)]
+
+- **[HealthCare-ML-Web-App](https://github.com/OwaisRaza04/HealthCare-ML-Web-App)** -  This application leverages advanced machine learning and deep learning techniques to provide various health-related predictions, including disease diagnosis and early detection. Users can input symptoms, demographic information, or medical data, and the model will generate predictions for diseases like diabetes, liver diseases, malaria, and pneumonia. [[demo app](https://health-fe9nmwmocapwsgjp2qgqho.streamlit.app/)]
+
+
+
+
